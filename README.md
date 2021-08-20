@@ -1,2 +1,3 @@
 # Test_Rep
-My 1ty rep 🍵
+My 1-rsh repository on GitHub
+🍵
